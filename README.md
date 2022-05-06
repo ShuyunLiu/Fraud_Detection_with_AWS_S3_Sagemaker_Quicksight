@@ -10,7 +10,7 @@ This project describes how Amazon S3, Amazon SageMaker and Amazon QuickSight can
 #### Why Fraud?
 <div align="left">
   <a>
-    <img src="Presentation/fraud_info.png" alt="fraud" width="523" height="567">
+    <img src="fraud_info.png" alt="fraud" width="523" height="567">
   </a>
 </div>
 
@@ -31,7 +31,7 @@ In order to run the full gamut of data storage, data processing, and data visual
 
 <div align="left">
   <a>
-    <img src="Presentation/data_pipeline.png" alt="fraud" width="749" height="181">
+    <img src="data_pipeline.png" alt="fraud" width="749" height="181">
   </a>
 </div>
 
@@ -44,7 +44,7 @@ S3-Bucket Definition
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Buckets.jpg" alt="fraud" width="749" height="181">
+    <img src="S3-Buckets.jpg" alt="fraud" width="749" height="181">
   </a>
 </div>
 <br>
@@ -52,7 +52,7 @@ S3 Folder Structure
 <br>
 <div align="left">
   <a>
-    <img src="S3/S3-Data.jpg" alt="fraud" width="749" height="181">
+    <img src="S3-Data.jpg" alt="fraud" width="749" height="181">
   </a>
 </div>
 
@@ -66,7 +66,7 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/EndpointLocation.png" alt="fraud" width="749" height="181">
+    <img src="EndpointLocation.png" alt="fraud" width="749" height="181">
   </a>
 </div>
 <br>
@@ -74,12 +74,12 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Authorization.jpg" alt="fraud" width="749" height="181">
+    <img src="Postman-Authorization.jpg" alt="fraud" width="749" height="181">
   </a>
 </div>
 <div align="left">
   <a>
-    <img src="sagemaker/Postman-Body.jpg" alt="fraud" width="749" height="181">
+    <img src="Postman-Body.jpg" alt="fraud" width="749" height="181">
   </a>
 </div>
 
