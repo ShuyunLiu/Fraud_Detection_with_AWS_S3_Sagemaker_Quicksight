@@ -79,7 +79,7 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 </div>
 <div align="left">
   <a>
-    <img src="Postman-Body.jpg" alt="fraud" width="749" height="181">
+    <img src="Postman-Body.jpeg" alt="fraud" width="749" height="181">
   </a>
 </div>
 
