@@ -44,7 +44,7 @@ S3-Bucket Definition
 <br>
 <div align="left">
   <a>
-    <img src="S3-Buckets.jpg" alt="fraud" width="749" height="181">
+    <img src="S3-Buckets.jpeg" alt="fraud" width="749" height="181">
   </a>
 </div>
 <br>
@@ -52,7 +52,7 @@ S3 Folder Structure
 <br>
 <div align="left">
   <a>
-    <img src="S3-Data.jpg" alt="fraud" width="749" height="181">
+    <img src="S3-Data.jpeg" alt="fraud" width="749" height="181">
   </a>
 </div>
 
@@ -74,7 +74,7 @@ Once model is built, it can be deployed to create an endpoint, this endpoint can
 <br>
 <div align="left">
   <a>
-    <img src="Postman-Authorization.jpg" alt="fraud" width="749" height="181">
+    <img src="Postman-Authorization.jpeg" alt="fraud" width="749" height="181">
   </a>
 </div>
 <div align="left">
